@@ -1,6 +1,6 @@
 # Coming soon
 
-This website can be used as comming soon page for different needs of IEEE JU Student Branch
+This website can be used as coming soon page for different needs of IEEE JU Student Branch
 
 ## Development
 
