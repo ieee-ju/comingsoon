@@ -8,6 +8,4 @@ To run the server enter the command ```php -S localhost:9000``` from the ```comi
 
 ## Deployment
 
-This site uses netlify deployment.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0d33d4c7-71d6-41fa-ae56-ab19c6dffaf4/deploy-status)](https://app.netlify.com/sites/comingsoon-ieeejusb/deploys)
+This site uses firebase hosting for deployment.
